@@ -17,5 +17,5 @@
   <img align="center"  width="180" src="https://giffiles.alphacoders.com/209/209661.gif">
 </div>
 <hr>
-  <img width="750" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyJames&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyJames&layout=compact&langs_count=7&theme=dracula"/>
 </div>
