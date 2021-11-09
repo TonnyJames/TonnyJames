@@ -16,5 +16,8 @@
   <img align="center"  width="180" src="https://giffiles.alphacoders.com/209/209661.gif">
 </div>
 <hr>
+ <div style = "marging: auto;"> 
+<a href="https://www.linkedin.com/in/tonnyjames/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:tonny.jreis@outlook.com"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" target="_blank"></a>
   <img width="830" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyJames&layout=compact&langs_count=7&theme=dracula"/>
 </div>
