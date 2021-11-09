@@ -15,7 +15,7 @@
   <img align="center" height="60" width="53" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="60" width="53" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" height="60" width="53" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="120" src="https://giffiles.alphacoders.com/209/209661.gif">
+  <img align="center" height="110" src="https://giffiles.alphacoders.com/209/209661.gif">
 </div>
 <hr>
   <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyJames&layout=compact&langs_count=7&theme=dracula"/>
