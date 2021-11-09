@@ -5,5 +5,5 @@
 - 📫 Produtor Musical por paixão em um estudio próprio chamado AudioClave
 
 
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoLob&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyJames&layout=compact&langs_count=7&theme=dracula"/>
 </div>
