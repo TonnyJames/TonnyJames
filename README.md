@@ -3,7 +3,7 @@
 - 🌱 Atualmente cursando 4 semestre de Engenharia da computação na Universidade Virtual do Estado de São Paulo.
 - 💞️ Interesse em Java, Python, MySql, C++, HTML, CSS, Banco de dados, Angular.
 - 📫 Produtor Musical por paixão em um estudio próprio chamado AudioClave
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin: 0; padding: 0"><br>
   <img align="center" height="60" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="60" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="60" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
