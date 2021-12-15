@@ -13,7 +13,7 @@
   <img align="center" height="60" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" height="60" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" height="60" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="60" width="10%" src="https://giffiles.alphacoders.com/209/209661.gif">
+  <img align="center" width="10%" src="https://giffiles.alphacoders.com/209/209661.gif">
 </div>
 <hr>
  <div>
