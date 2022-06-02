@@ -1,7 +1,7 @@
-- 👋 Trainee JAVA na empresa @castgroup
-- 👀 Interesse em Desenvolvimento de sistemas Full Stack
-- 🌱 Atualmente cursando 5º semestre de Engenharia da computação na Universidade Virtual do Estado de São Paulo.
-- 💞️ Interesse em Java, MySql, HTML, CSS, Angular, Spring.
+- 👋 Desenvolvedor JAVA na empresa @castgroup
+- 👀 Interesse em Desenvolvimento Full Stack
+- 🌱 Atualmente cursando 6º semestre de Engenharia da computação na Universidade Virtual do Estado de São Paulo.
+- 💞️ Conhecimento em Java, JavaScript, TypeScript, Spring Boot, Angular, Vue JS, MySql, HTML, CSS.
 - 📫 Produtor Musical por paixão em um estudio próprio chamado AudioClave
 <hr>
 <div style="display: inline_block; margin: auto">
