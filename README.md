@@ -1,6 +1,6 @@
 - 👋 Desenvolvedor JAVA na empresa @castgroup
 - 👀 Interesse em Desenvolvimento Full Stack
-- 🌱 Atualmente cursando 7º semestre de Engenharia da computação na Universidade Virtual do Estado de São Paulo.
+- 🌱 Atualmente cursando 8º semestre de Engenharia da computação na Universidade Virtual do Estado de São Paulo.
 - 💞️ Conhecimento em Java, JavaScript, TypeScript, Spring Boot, Angular, Vue JS, MySql, HTML, CSS.
 - 📫 Produtor Musical por paixão em um estudio próprio chamado AudioClave
 <hr>
