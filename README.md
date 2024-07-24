@@ -13,7 +13,7 @@
   <img align="center" height="auto" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" height="auto" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" height="auto" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" height="auto" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">  
+  <img align="center" height="auto" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">  
 </div>
 <hr>
  <div>
