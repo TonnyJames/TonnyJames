@@ -1,4 +1,4 @@
-- :coffee: Desenvolvedor JAVA na empresa @castgroup
+- :coffee: Desenvolvedor JAVA na empresa [CastGroup](https://www.castgroup.com.br/)
 - 👀 Interesse em Desenvolvimento Full Stack
 - :chart_with_upwards_trend:  Bacharel em Técnologia da Informação - IoT
 - :books: Atualmente cursando 10º e último semestre do bacharelado em Engenharia da computação na Universidade Virtual do Estado de São Paulo.
