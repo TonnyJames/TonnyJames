@@ -22,7 +22,7 @@
 </div>
 <hr>
 <p align="center">
- <h3> Total de visitas no meu perfil 🕵 </h3>
+ <h3 align="center"> Total de visitas no meu perfil 🕵 </h3>
   <br>
    <p align="center">
      <img alingn="center" width="150" height="35" src="https://profile-counter.glitch.me/TonnyJames/count.svg" />
