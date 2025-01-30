@@ -1,8 +1,8 @@
-- :coffee: Desenvolvedor JAVA na empresa [CastGroup](https://www.castgroup.com.br/)
-- 👀 Interesse em Desenvolvimento Full Stack
+- :coffee: Desenvolvedor JAVA na empresa [Engeneering Brasil]([https://www.castgroup.com.br/](https://www.eng.it/en))
+- 👀 Interesse em Desenvolvimento Backend
+- :chart_with_upwards_trend:  Bacharel em Engenharia da Computação
 - :chart_with_upwards_trend:  Bacharel em Técnologia da Informação - IoT
-- :books: Atualmente cursando 10º e último semestre do bacharelado em Engenharia da computação na Universidade Virtual do Estado de São Paulo.
-- :star2: Conhecimento em Java, Spring Boot, Spring Security, Webflux, RabbitMq, Angular, Vue, AWS, MySql, SqlServer, Postgres, MongoDB, JPA, Hibernate, Git, JavaScript, HTML5, CSS, Docker e métodos ágeis (SCRUM).
+- :star2: Conhecimento em Java, Spring Boot, Spring Security, Webflux, Kafka, RabbitMq, Angular, Vue, AWS, MySql, SqlServer, Postgres, MongoDB, JPA, Hibernate, Git, JavaScript, HTML5, CSS, Docker.
 <hr>
 <div style="display: inline_block; margin: auto">
   <img align="center" height="auto" width="10%" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
