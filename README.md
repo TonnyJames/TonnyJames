@@ -1,4 +1,4 @@
-- :coffee: Desenvolvedor JAVA na empresa [Engeneering Brasil]([https://www.castgroup.com.br/](https://www.eng.it/en))
+- :coffee: Desenvolvedor JAVA na empresa [Engineering Brasil]([https://www.castgroup.com.br/](https://www.eng.it/en))
 - 👀 Interesse em Desenvolvimento Backend
 - :chart_with_upwards_trend:  Bacharel em Engenharia da Computação
 - :chart_with_upwards_trend:  Bacharel em Técnologia da Informação - IoT
